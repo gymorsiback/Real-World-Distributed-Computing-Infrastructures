@@ -63,4 +63,10 @@ Each topology includes user-task traces for training and evaluation:
 * **Special setting**: **S4** is additionally designated as a test-only topology for **cross-domain generalization** evaluation.
 
 ---
+## Contact & Support
 
+For questions, bug reports, or collaboration inquiries:
+
+- **Email**: [gymorsiback@tju.edu.cn]
+
+---
