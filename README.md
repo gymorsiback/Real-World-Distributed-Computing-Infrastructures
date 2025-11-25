@@ -64,4 +64,3 @@ Each topology includes user-task traces for training and evaluation:
 
 ---
 
-If you want, I can also add fully academic sections commonly expected in a research repository (e.g., *Motivation*, *Formal Problem Setting*, *Data Format Specification*, *Reproducibility*, *Citation/BibTeX*, and *Licensing/Acknowledgments*) in the same style.
